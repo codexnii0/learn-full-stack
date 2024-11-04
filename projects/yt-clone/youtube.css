@@ -1,0 +1,53 @@
+.search-bar{
+    display: block;
+}
+
+.thumbnail-box{
+    width: 300px;
+    display: inline-block;
+    margin-right: 1rem;
+}
+.thumbnail{
+    width: 300px;
+    display: block;
+}
+
+.details{
+    width: 300px;
+    display: block;
+    margin-top: 12px;
+}
+
+.author-profile-box{
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.author-profile{
+    width: 40px;
+    border-radius: 50px;
+
+}
+
+.video-text{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.video-title{
+    margin-top: 0px;
+}
+
+p{
+    font-size: 14px;
+    font-family: Roboto, Arial;
+}
+
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
