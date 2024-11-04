@@ -71,8 +71,10 @@ body{
 }
 
 .greg{
-    width: 100%;
+    width: 15%;
     vertical-align: top;
+    display: inline-block;
+    border-radius: 5em;
 }
 
 .p5{
