@@ -37,7 +37,10 @@
 }
 
 .video-title{
-    margin-top: 0px;
+    margin-top: 0rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.25rem;
 }
 
 p{
@@ -50,4 +53,18 @@ p{
     display: inline-block;
     vertical-align: top;
     margin-right: 15px;
+}
+
+.video-author{
+    font-size: 0.75rem;
+    color: #606060;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+
+.video-stats{
+    font-size: 0.75rem;
+    color: #606060;
+    margin-bottom: 1rem;
+    margin-top: 0.25rem;
 }
