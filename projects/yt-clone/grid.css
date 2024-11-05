@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: 6.25rem 6.25rem;
+    margin-top: 1.875rem;
+}
+
+.div1{
+    background-color: lightblue;
+}
+
+.div2{
+    background-color: lightpink;
+}
