@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    padding: 0;
 }
 
 body{
@@ -8,26 +7,26 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 100px;
 }
 
 .card-container{
-    display: block;
-    padding: 120px;
-    width: 400px;
-    background-color: aqua;
+    padding: 8.5em;
+    width: 31.25em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 .picture-container{
-    display: inline-block;
-    padding: 100px;
-    width: 20px;
-    background-color: pink;
+    
+}
+
+.picture{
+    width: 250px;
 }
 
 .card-details{
     display: inline-block;
-    padding: 100px;
-    width: 20px;
-    background-color: black;
+    height: 375px;
+    width: 250px;
+    background-color: white;
 }
